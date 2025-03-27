@@ -23,3 +23,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |  Nishant Pandey| Student| Mechanical Engineering  | Rajkiya Engineering College Banda |nishpand01@gmail.com
 2 | Dr. Ashutosh Tiwari| Faculty | Applied Science and Humanities  | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
+3 | Sanny Kumar | Student         | Information Technology | Rajkiya Engineering College Banda | sannykumarkarmouta12345@gmail.com |
+3 | Rajat Tripathi | Student         | Information Technology | Rajkiya Engineering College Banda | trajat905@gmail.com |
